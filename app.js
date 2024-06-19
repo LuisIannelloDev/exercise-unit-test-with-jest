@@ -29,3 +29,6 @@ const fromYenToPound = function(valueInYen) {
 
 // Tenemos que incluir la función en el exports para que sea exportada a otros archivos como test.js
 module.exports = { fromEuroToDollar, fromDollarToYen, fromYenToPound };
+
+
+// He realizado todo los pasos y me da el resultado del ejercicio. 
